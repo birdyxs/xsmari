@@ -16,6 +16,9 @@ body:before {background-attachment: scroll;content: '';display: block;height: va
 
 :root {--background-height: 100vh;--site-language-alignment: left;--site-language-direction: ltr;--site-language-flex-alignment: flex-start;--site-language-indent-left: 1;--site-language-indent-right: 0;--site-language-margin-left: 0;--site-language-margin-right: auto;--viewport-height: 100vh;}
 
+::-moz-selection { color: #0f0f0f; background:#EDE7E1;}
+::selection { color: #0f0f0f; background:#EDE7E1;}
+
 html {font-size: 17pt;}
 u {text-decoration: underline;}
 strong {color: inherit;font-weight: bolder;}
