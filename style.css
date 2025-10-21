@@ -12,7 +12,7 @@ body{-webkit-text-size-adjust:none}mark{background-color:transparent;color:inher
 
 body {line-height: 1.0;min-height: var(--viewport-height);min-width: 320px;overflow-x: hidden;word-wrap: break-word;background-color: #DECFB7;}
 
-body:before {background-attachment: scroll;content: '';display: block;height: var(--background-height);left: 0;pointer-events: none;position: fixed;top: 0;transform: scale(1);width: 100vw;z-index: 0;background-image: url('https://i.ibb.co/DDD14Xj0/goldcherrys.png');background-size: 130px;background-position: center;background-repeat: repeat;}
+body:before {background-attachment: scroll;content: '';display: block;height: var(--background-height);left: 0;pointer-events: none;position: fixed;top: 0;transform: scale(1);width: 100vw;z-index: 0;background-image: url('https://i.ibb.co/DDD14Xj0/goldcherrys.png');background-size: 200px;background-position: center;background-repeat: repeat;}
 
 :root {--background-height: 100vh;--site-language-alignment: left;--site-language-direction: ltr;--site-language-flex-alignment: flex-start;--site-language-indent-left: 1;--site-language-indent-right: 0;--site-language-margin-left: 0;--site-language-margin-right: auto;--viewport-height: 100vh;}
 
